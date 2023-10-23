@@ -21,6 +21,9 @@ Desafio de Projeto da DIO sobre Git/Gihub da qual irei editar esta página com c
 | [git add](https://git-scm.com/docs/git-add) | Comando que adionamos conteúdos de dados e informações |
 | [git commit -m ""](https://git-scm.com/docs/git-commit#Documentation/git-commit.txt--mltmsggt) | Comando que gravamos uma mensagem descritiva |
 | [git commit --amend](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things) | Comando que alteramos as informações, no comando ao lado em especifico, alterando a ultima gravação no Repositório |
+| [git reset](https://git-scm.com/docs/git-reset) | Comando que desfazemos a gravação |
+| [git branch](https://git-scm.com/docs/git-branch) | Comando que criaremos, listamos e deletamos as Ramificações - Branchs |
+
 
 
 
